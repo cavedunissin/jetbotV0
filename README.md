@@ -14,7 +14,7 @@ JetBot is an open-source robot based on NVIDIA Jetson Nano that is
 
 Building and using JetBot gives the hands on experience needed to create entirely new AI projects.
 
-請從 [JetBot Wiki](https://github.com/NVIDIA-AI-IOT/jetbot/wiki) 來入門吧。
+請從 [JetBot Wiki](https://github.com/cavedunissin/jetbot/wiki) 來入門吧。
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-135919510-1/jetbot/README?pixel)](https://github.com/igrigorik/ga-beacon)
